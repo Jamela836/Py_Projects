@@ -1,0 +1,1039 @@
+Reciept no ,Order date ,Ordertype name,Item name,Category name,Selling price,Item quantity,total sales
+1,1/1/2019,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+2,1/2/2019,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+3,1/3/2019,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+4,1/4/2019,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+5,1/5/2019,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+6,1/6/2019,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+7,1/7/2019,On Shop, Jeans - Levis,Casual Wear,1100,2,2200
+8,1/8/2019,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+9,1/9/2019,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+10,1/10/2019,On Shop, Jeans - Denim,Casual Wear,900,1,900
+11,1/11/2019,Online Order, Jeans - Denim,Casual Wear,900,1,900
+12,1/12/2019,Online Order, Jeans - Denim,Casual Wear,900,1,900
+13,1/13/2019,Online Order, Jeans - Denim,Casual Wear,900,2,1800
+14,1/14/2019,Online Order, Jeans - Denim,Casual Wear,900,1,900
+15,1/15/2019,Online Order, Jeans - Denim,Casual Wear,900,1,900
+16,1/16/2019,Online Order, Jeans - Levis,Casual Wear,1100,1,1100
+17,1/17/2019,Online Order, Jeans - Denim,Casual Wear,900,1,900
+18,1/18/2019,Online Order, Jeans - Levis,Casual Wear,1100,2,2200
+19,1/19/2019,Online Order, Jeans - Levis,Casual Wear,1100,1,1100
+20,1/20/2019,On Shop, Jeans - Denim,Casual Wear,900,1,900
+21,1/21/2019,On Shop, Jeans - Denim,Casual Wear,900,1,900
+22,1/22/2019,On Shop, Jeans - Zara,Casual Wear,900,1,900
+23,1/23/2019,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+24,1/24/2019,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+25,1/25/2019,On Shop, Jeans - Zara,Casual Wear,900,1,900
+26,1/26/2019,On Shop, Jeans - Denim,Casual Wear,900,1,900
+27,1/27/2019,On Shop, Jeans - Zara,Casual Wear,900,1,900
+28,1/28/2019,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+29,1/29/2019,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+30,1/30/2019,On Shop, Jeans - Zara,Casual Wear,900,1,900
+31,1/31/2019,On Shop, Jeans - Zara,Casual Wear,900,1,900
+32,2/1/2019,On Shop, Jeans - Zara,Casual Wear,900,1,900
+33,2/2/2019,On Shop, Jeans - Zara,Casual Wear,900,1,900
+34,2/3/2019,On Shop, Jeans - Zara,Casual Wear,900,1,900
+35,2/4/2019,On Shop, Jeans - Denim,Casual Wear,900,1,900
+36,2/5/2019,On Shop, Jeans - Denim,Casual Wear,900,1,900
+37,2/6/2019,On Shop, Jeans - Denim,Casual Wear,900,1,900
+38,2/7/2019,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+39,2/8/2019,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+40,2/9/2019,On Shop, Jeans - Lega,Casual Wear,1000,1,1000
+41,2/10/2019,On Shop, Jeans - Lega,Casual Wear,1000,1,1000
+42,2/11/2019,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+43,2/12/2019,On Shop, Jeans - Lega,Casual Wear,1000,1,1000
+44,2/13/2019,On Shop, Jeans - Denim,Casual Wear,900,1,900
+45,2/14/2019,On Shop, Jeans - Denim,Casual Wear,900,2,1800
+46,2/15/2019,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+47,2/16/2019,On Shop, Jeans - Denim,Casual Wear,900,1,900
+48,2/17/2019,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+49,2/18/2019,On Shop, Shirt - PE,Semi Formal,800,1,800
+50,2/19/2019,On Shop, Shirt - PE,Semi Formal,800,2,1600
+51,2/20/2019,On Shop, Jeans - Zara,Casual Wear,900,1,900
+52,2/21/2019,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+49,2/18/2019,On Shop, Shirt - PE,Semi Formal,800,1,800
+53,2/22/2019,On Shop, Shirt - PE,Semi Formal,800,1,800
+54,2/23/2019,On Shop, Jeans - Lega,Casual Wear,1000,1,1000
+55,2/24/2019,On Shop, Shirt - PE,Semi Formal,800,1,800
+56,2/25/2019,On Shop, T-shirt,Semi Formal,600,1,600
+57,2/26/2019,On Shop, Jeans - Denim,Casual Wear,900,1,900
+58,2/27/2019,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+59,2/28/2019,On Shop, Jeans - Lega,Casual Wear,1000,1,1000
+60,3/1/2019,On Shop, Jeans - Denim,Casual Wear,900,1,900
+61,3/2/2019,On Shop, Jeans - Levis,Casual Wear,1100,2,2200
+62,3/3/2019,On Shop, T-shirt,Semi Formal,600,1,600
+63,3/4/2019,On Shop, T-shirt,Semi Formal,600,1,600
+64,3/5/2019,On Shop, T-shirt,Semi Formal,600,1,600
+65,3/6/2019,On Shop, Jeans - Denim,Casual Wear,900,1,900
+66,3/7/2019,On Shop, T-shirt,Semi Formal,600,1,600
+67,3/8/2019,On Shop, T-shirt,Semi Formal,600,1,600
+68,3/9/2019,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+69,3/10/2019,On Shop, Jeans - Zara,Casual Wear,900,3,2700
+70,3/11/2019,On Shop, Jeans - Levis,Casual Wear,1100,2,2200
+71,3/12/2019,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+72,3/13/2019,On Shop, T-shirt,Semi Formal,600,1,600
+73,3/14/2019,On Shop, Jeans - Denim,Casual Wear,900,1,900
+74,3/15/2019,On Shop, T-shirt,Semi Formal,600,1,600
+75,3/16/2019,On Shop, T-shirt,Semi Formal,600,1,600
+75,3/16/2019,On Shop, T-shirt,Semi Formal,600,1,600
+76,3/17/2019,On Shop, Jeans - Denim,Casual Wear,900,3,2700
+77,3/18/2019,On Shop, T-shirt,Semi Formal,600,1,600
+78,3/19/2019,On Shop, Shirt - PE,Semi Formal,800,1,800
+79,3/20/2019,On Shop, T-shirt,Semi Formal,600,1,600
+80,3/21/2019,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+81,3/22/2019,On Shop, Jeans - Zara,Casual Wear,900,1,900
+82,3/23/2019,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+83,3/24/2019,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+84,3/25/2019,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+85,3/26/2019,On Shop, Jeans - Lega,Casual Wear,1000,1,1000
+86,3/27/2019,On Shop, T-shirt,Semi Formal,600,1,600
+87,3/28/2019,On Shop, Shirt - PE,Semi Formal,800,1,800
+88,3/29/2019,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+89,3/30/2019,On Shop, T-shirt,Semi Formal,600,1,600
+90,3/31/2019,On Shop, shirt,Formal,850,1,850
+91,4/1/2019,On Shop, Jeans - Zara,Casual Wear,900,1,900
+92,4/2/2019,On Shop, Jeans - Lega,Casual Wear,1000,1,1000
+93,4/3/2019,On Shop, shirt,Formal,850,1,850
+94,4/4/2019,On Shop, shirt,Formal,850,1,850
+95,4/5/2019,On Shop, Jeans - Lega,Casual Wear,1000,1,1000
+96,4/6/2019,On Shop, Shirt - PE,Semi Formal,800,1,800
+97,4/7/2019,On Shop, T-shirt,Semi Formal,600,1,600
+98,4/8/2019,On Shop, Shirt - PE,Semi Formal,800,1,800
+99,4/9/2019,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+100,4/10/2019,On Shop, shirt,Formal,850,1,850
+101,4/11/2019,On Shop, shirt,Formal,850,1,850
+102,4/12/2019,On Shop, shirt,Formal,850,1,850
+103,4/13/2019,On Shop, T-shirt,Semi Formal,600,1,600
+104,4/14/2019,On Shop, shirt,Formal,850,1,850
+105,4/15/2019,On Shop, shirt,Formal,850,1,850
+106,4/16/2019,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+107,4/17/2019,On Shop, Jeans - Lega,Casual Wear,1000,1,1000
+108,4/18/2019,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+109,4/19/2019,On Shop, T-shirt,Semi Formal,600,1,600
+110,4/20/2019,On Shop, T-shirt,Semi Formal,600,2,1200
+111,4/21/2019,On Shop, T-shirt,Semi Formal,600,1,600
+112,4/22/2019,On Shop, T-shirt,Semi Formal,600,1,600
+113,4/23/2019,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+114,4/24/2019,On Shop, Jeans - Zara,Casual Wear,900,1,900
+115,4/25/2019,On Shop, T-shirt,Semi Formal,600,1,600
+116,4/26/2019,On Shop, Jeans - Zara,Casual Wear,900,1,900
+117,4/27/2019,On Shop, Jeans - Denim,Casual Wear,900,1,900
+118,4/28/2019,On Shop, T-shirt,Semi Formal,600,1,600
+119,4/29/2019,On Shop, T-shirt,Semi Formal,600,1,600
+120,4/30/2019,On Shop, T-shirt,Semi Formal,600,1,600
+121,5/1/2019,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+122,5/2/2019,On Shop, T-shirt,Semi Formal,600,1,600
+123,5/3/2019,On Shop, T-shirt,Semi Formal,600,1,600
+124,5/4/2019,On Shop, T-shirt,Semi Formal,600,1,600
+125,5/5/2019,On Shop, Jeans - Denim,Casual Wear,900,1,900
+126,5/6/2019,On Shop, T-shirt,Semi Formal,600,1,600
+127,5/7/2019,On Shop, Jeans - Zara,Casual Wear,900,1,900
+128,5/8/2019,On Shop, Shirt - Arrow,Formal,1200,1,1200
+129,5/9/2019,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+130,5/10/2019,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+131,5/11/2019,On Shop, T-shirt,Semi Formal,600,1,600
+132,5/12/2019,On Shop, T-shirt,Semi Formal,600,2,1200
+133,5/13/2019,On Shop, Shirt - Arrow,Formal,1200,1,1200
+134,5/14/2019,On Shop, Shirt - Arrow,Formal,1200,1,1200
+135,5/15/2019,On Shop, Jeans - Lega,Casual Wear,1000,1,1000
+136,5/16/2019,On Shop, Shirt - PE,Semi Formal,800,2,1600
+137,5/17/2019,On Shop, Shirt - Arrow,Formal,1200,1,1200
+138,5/18/2019,On Shop, Jeans - Zara,Casual Wear,900,1,900
+139,5/19/2019,On Shop, Jeans - Lega,Casual Wear,1000,1,1000
+140,5/20/2019,On Shop, Shirt - PE,Semi Formal,800,1,800
+141,5/21/2019,On Shop, Shirt - Arrow,Formal,1200,1,1200
+142,5/22/2019,On Shop, Shirt - Arrow,Formal,1200,1,1200
+143,5/23/2019,On Shop, Shirt - PE,Semi Formal,800,2,1600
+144,5/24/2019,On Shop, Jeans - Denim,Casual Wear,900,1,900
+145,5/25/2019,On Shop, Jeans - Lega,Casual Wear,1000,1,1000
+146,5/26/2019,On Shop, Jeans - Lega,Casual Wear,1000,1,1000
+147,5/27/2019,On Shop, T-shirt,Semi Formal,600,1,600
+148,5/28/2019,On Shop, shirt,Formal,850,1,850
+149,5/29/2019,On Shop, T-shirt,Semi Formal,600,1,600
+150,5/30/2019,On Shop, shirt,Formal,850,1,850
+151,5/31/2019,On Shop, shirt,Formal,850,1,850
+152,6/1/2019,On Shop, Jeans - Denim,Casual Wear,900,1,900
+153,6/2/2019,On Shop, Shirt - Arrow,Formal,1200,2,2400
+154,6/3/2019,On Shop, Shirt - PE,Semi Formal,800,1,800
+155,6/4/2019,On Shop, Shirt - PE,Semi Formal,800,1,800
+156,6/5/2019,On Shop, Jeans - Zara,Casual Wear,900,1,900
+157,6/6/2019,On Shop, Shirt - PE,Semi Formal,800,1,800
+158,6/7/2019,On Shop, T-shirt,Semi Formal,600,1,600
+159,6/8/2019,On Shop, Jeans - Denim,Casual Wear,900,3,2700
+160,6/9/2019,On Shop, T-shirt,Semi Formal,600,1,600
+161,6/10/2019,On Shop, Shirt - PE,Semi Formal,800,1,800
+162,6/11/2019,On Shop, T-shirt,Semi Formal,600,1,600
+163,6/12/2019,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+164,6/13/2019,On Shop, Jeans - Zara,Casual Wear,900,1,900
+165,6/14/2019,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+166,6/15/2019,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+167,6/16/2019,On Shop, Shirt - Arrow,Formal,1200,1,1200
+168,6/17/2019,On Shop, Shirt - Arrow,Formal,1200,1,1200
+169,6/18/2019,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+170,6/19/2019,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+171,6/20/2019,On Shop, Wallet,Accessories,900,1,900
+172,6/21/2019,On Shop, Jeans - Zara,Casual Wear,900,1,900
+173,6/22/2019,On Shop, Wallet,Accessories,800,1,800
+174,6/23/2019,On Shop, T-shirt,Semi Formal,600,1,600
+175,6/24/2019,On Shop, Wallet,Accessories,800,1,800
+176,6/25/2019,On Shop, Jeans - Zara,Casual Wear,900,1,900
+177,6/26/2019,On Shop, Shirt - Arrow,Formal,1200,1,1200
+178,6/27/2019,On Shop, Wallet,Accessories,800,1,800
+179,6/28/2019,On Shop, Jeans - Denim,Casual Wear,900,1,900
+180,6/29/2019,On Shop, Shirt - Arrow,Formal,1200,1,1200
+181,6/30/2019,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+182,7/1/2019,On Shop, Shirt - Arrow,Formal,1200,1,1200
+183,7/2/2019,On Shop, Jeans - Zara,Casual Wear,900,1,900
+184,7/3/2019,On Shop, Jeans - Levis,Casual Wear,1100,2,2200
+185,7/4/2019,On Shop, Shirt - Arrow,Formal,1200,1,1200
+186,7/5/2019,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+187,7/6/2019,On Shop, Jeans - Denim,Casual Wear,900,1,900
+188,7/7/2019,On Shop, T-shirt,Semi Formal,600,1,600
+189,7/8/2019,On Shop, Wallet,Accessories,900,1,900
+190,7/9/2019,On Shop, Shirt - PE,Semi Formal,800,1,800
+191,7/10/2019,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+192,7/11/2019,On Shop, Jeans - Zara,Casual Wear,900,1,900
+193,7/12/2019,On Shop, Jeans - Lega,Casual Wear,1000,1,1000
+194,7/13/2019,On Shop, shirt,Formal,850,1,850
+195,7/14/2019,On Shop, T-shirt,Semi Formal,600,1,600
+196,7/15/2019,On Shop, Jeans - Zara,Casual Wear,900,1,900
+197,7/16/2019,On Shop, Jeans - Lega,Casual Wear,1000,1,1000
+198,7/17/2019,On Shop, Jeans - Zara,Casual Wear,900,1,900
+199,7/18/2019,On Shop, Jeans - Denim,Casual Wear,900,1,900
+200,7/19/2019,On Shop, T-shirt,Semi Formal,600,1,600
+201,7/20/2019,On Shop, Wallet,Accessories,900,1,900
+202,7/21/2019,On Shop, Wallet,Accessories,800,1,800
+203,7/22/2019,On Shop, Shirt - PE,Semi Formal,800,1,800
+204,7/23/2019,On Shop, T-shirt,Semi Formal,600,1,600
+205,7/24/2019,On Shop, Wallet,Accessories,500,1,500
+206,7/25/2019,On Shop, Jeans - Zara,Casual Wear,900,1,900
+207,7/26/2019,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+208,7/27/2019,On Shop, Wallet,Accessories,500,1,500
+209,7/28/2019,On Shop, T-shirt,Semi Formal,600,1,600
+210,7/29/2019,On Shop, Jeans - Zara,Casual Wear,900,1,900
+211,7/30/2019,On Shop, Wallet,Accessories,500,1,500
+212,7/31/2019,On Shop, Wallet,Accessories,500,1,500
+213,8/1/2019,On Shop, T-shirt,Semi Formal,600,1,600
+214,8/2/2019,On Shop, T-shirt,Semi Formal,600,1,600
+215,8/3/2019,On Shop, Shirt - PE,Semi Formal,800,1,800
+216,8/4/2019,On Shop, shirt,Formal,850,1,850
+217,8/5/2019,On Shop, Wallet,Accessories,500,1,500
+218,8/6/2019,On Shop, Wallet,Accessories,500,1,500
+219,8/7/2019,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+220,8/8/2019,On Shop, Wallet,Accessories,500,1,500
+221,8/9/2019,On Shop, Jeans - Lega,Casual Wear,1000,1,1000
+222,8/10/2019,On Shop, Shirt - PE,Semi Formal,800,1,800
+223,8/11/2019,On Shop, Chain,Accessories,600,1,600
+224,8/12/2019,On Shop, Chain,Accessories,600,1,600
+225,8/13/2019,On Shop, shirt,Formal,850,1,850
+226,8/14/2019,On Shop, Chain,Accessories,600,1,600
+227,8/15/2019,On Shop, T-shirt,Semi Formal,600,1,600
+228,8/16/2019,On Shop, Chain,Accessories,600,1,600
+229,8/17/2019,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+230,8/18/2019,On Shop, T-shirt,Semi Formal,600,1,600
+231,8/19/2019,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+232,8/20/2019,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+233,8/21/2019,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+234,8/22/2019,On Shop, shirt,Formal,850,1,850
+235,8/23/2019,On Shop, T-shirt,Semi Formal,600,1,600
+236,8/24/2019,On Shop, T-shirt,Semi Formal,600,1,600
+237,8/25/2019,On Shop, Shirt - PE,Semi Formal,800,1,800
+238,8/26/2019,On Shop, Shirt - Arrow,Formal,1200,1,1200
+239,8/27/2019,On Shop, Jeans - Lega,Casual Wear,1000,1,1000
+240,8/28/2019,On Shop, Chain,Accessories,600,1,600
+241,8/29/2019,On Shop, Jeans - Zara,Casual Wear,900,1,900
+242,8/30/2019,On Shop, T-shirt,Semi Formal,600,1,600
+243,8/31/2019,On Shop, Jeans - Denim,Casual Wear,900,1,900
+244,9/1/2019,On Shop, Chain,Accessories,600,1,600
+245,9/2/2019,On Shop, shirt,Formal,850,1,850
+246,9/3/2019,On Shop, Jeans - Zara,Casual Wear,900,1,900
+247,9/4/2019,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+248,9/5/2019,On Shop, Jeans - Zara,Casual Wear,900,1,900
+249,9/6/2019,On Shop, Jeans - Lega,Casual Wear,1000,1,1000
+250,9/7/2019,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+251,9/8/2019,On Shop, Jeans - Lega,Casual Wear,1000,1,1000
+252,9/9/2019,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+253,9/10/2019,On Shop, Jeans - Zara,Casual Wear,900,1,900
+254,9/11/2019,On Shop, Jeans - Denim,Casual Wear,900,1,900
+255,9/12/2019,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+256,9/13/2019,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+257,9/14/2019,On Shop, Jeans - Lega,Casual Wear,1000,1,1000
+258,9/15/2019,On Shop, Jeans - Denim,Casual Wear,900,1,900
+259,9/16/2019,On Shop, T-shirt,Semi Formal,600,1,600
+260,9/17/2019,On Shop, Jeans - Denim,Casual Wear,900,1,900
+261,9/18/2019,On Shop, T-shirt,Semi Formal,600,1,600
+262,9/19/2019,On Shop, Jeans - Zara,Casual Wear,900,1,900
+263,9/20/2019,On Shop, Jeans - Levis,Casual Wear,1100,2,2200
+264,9/21/2019,On Shop, T-shirt,Semi Formal,600,1,600
+265,9/22/2019,On Shop, T-shirt,Semi Formal,600,1,600
+266,9/23/2019,On Shop, Jeans - Zara,Casual Wear,900,1,900
+267,9/24/2019,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+268,9/25/2019,On Shop, T-shirt,Semi Formal,600,1,600
+269,9/26/2019,On Shop, Chain,Accessories,600,1,600
+270,9/27/2019,On Shop, T-shirt,Semi Formal,600,1,600
+271,9/28/2019,On Shop, Chain,Accessories,600,1,600
+272,9/29/2019,On Shop, Chain,Accessories,600,2,1200
+273,9/30/2019,On Shop, T-shirt,Semi Formal,600,1,600
+274,10/1/2019,On Shop, Jeans - Levis,Casual Wear,1100,3,3300
+275,10/2/2019,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+276,10/3/2019,On Shop, shirt,Formal,850,1,850
+277,10/4/2019,On Shop, Shirt - Arrow,Formal,1200,1,1200
+278,10/5/2019,On Shop, Shirt - PE,Semi Formal,800,1,800
+279,10/6/2019,On Shop, Jeans - Zara,Casual Wear,900,1,900
+280,10/7/2019,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+281,10/8/2019,On Shop, Jeans - Denim,Casual Wear,900,1,900
+282,10/9/2019,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+283,10/10/2019,On Shop, Wallet,Accessories,900,1,900
+284,10/11/2019,On Shop, Wallet,Accessories,500,1,500
+285,10/12/2019,On Shop, Jeans - Lega,Casual Wear,1000,1,1000
+286,10/13/2019,On Shop, Chain,Accessories,600,1,600
+287,10/14/2019,On Shop, Jeans - Denim,Casual Wear,900,2,1800
+288,10/15/2019,On Shop, shirt,Formal,850,1,850
+289,10/16/2019,On Shop, Shirt - PE,Semi Formal,800,1,800
+290,10/17/2019,On Shop, Jeans - Denim,Casual Wear,900,1,900
+291,10/18/2019,On Shop, Jeans - Denim,Casual Wear,900,1,900
+292,10/19/2019,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+293,10/20/2019,On Shop, Jeans - Zara,Casual Wear,900,1,900
+294,10/21/2019,On Shop, T-shirt,Semi Formal,600,1,600
+295,10/22/2019,On Shop, T-shirt,Semi Formal,600,1,600
+296,10/23/2019,On Shop, Jeans - Zara,Casual Wear,900,1,900
+297,10/24/2019,On Shop, shirt,Formal,850,1,850
+298,10/25/2019,On Shop, Jeans - Zara,Casual Wear,900,1,900
+299,10/26/2019,On Shop, T-shirt,Semi Formal,600,1,600
+300,10/27/2019,On Shop, T-shirt,Semi Formal,600,1,600
+301,10/28/2019,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+302,10/29/2019,On Shop, Jeans - Denim,Casual Wear,900,1,900
+303,10/30/2019,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+304,10/31/2019,On Shop, T-shirt,Semi Formal,600,1,600
+305,11/1/2019,On Shop, Shirt - Arrow,Formal,1200,1,1200
+306,11/2/2019,On Shop, Chain,Accessories,600,1,600
+307,11/3/2019,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+308,11/4/2019,On Shop, Wallet,Accessories,500,1,500
+309,11/5/2019,On Shop, Jeans - Denim,Casual Wear,900,1,900
+310,11/6/2019,On Shop, shirt,Formal,850,1,850
+311,11/7/2019,On Shop, T-shirt,Semi Formal,600,1,600
+312,11/8/2019,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+313,11/9/2019,On Shop, Wallet,Accessories,500,1,500
+314,11/10/2019,On Shop, T-shirt,Semi Formal,600,1,600
+315,11/11/2019,On Shop, Jeans - Lega,Casual Wear,1000,1,1000
+316,11/12/2019,Online Order, T-shirt,Semi Formal,600,1,600
+317,11/13/2019,Online Order, Jeans - Levis,Casual Wear,1100,1,1100
+318,11/14/2019,Online Order, Wallet,Accessories,500,1,500
+319,11/15/2019,Online Order, Jeans - Levis,Casual Wear,1100,2,2200
+320,11/16/2019,Online Order, T-shirt,Semi Formal,600,1,600
+321,11/17/2019,Online Order, Shirt - PE,Semi Formal,800,1,800
+322,11/18/2019,Online Order, Jeans - Zara,Casual Wear,900,1,900
+323,11/19/2019,Online Order, Chain,Accessories,600,1,600
+324,11/20/2019,Online Order, Jeans - Levis,Casual Wear,1100,2,2200
+325,11/21/2019,On Shop, T-shirt,Semi Formal,600,1,600
+326,11/22/2019,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+327,11/23/2019,On Shop, Jeans - Lega,Casual Wear,1000,1,1000
+328,11/24/2019,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+329,11/25/2019,On Shop, Shirt - Arrow,Formal,1200,1,1200
+330,11/26/2019,On Shop, Jeans - Zara,Casual Wear,900,1,900
+331,11/27/2019,On Shop, Chain,Accessories,600,1,600
+332,11/28/2019,On Shop, Jeans - Levis,Casual Wear,1100,2,2200
+333,11/29/2019,On Shop, Jeans - Lega,Casual Wear,1000,1,1000
+334,11/30/2019,On Shop, Jeans - Lega,Casual Wear,1000,1,1000
+335,12/1/2019,On Shop, Wallet,Accessories,500,1,500
+336,12/2/2019,On Shop, Jeans - Lega,Casual Wear,1000,1,1000
+337,12/3/2019,On Shop, Shirt - Arrow,Formal,1200,1,1200
+338,12/4/2019,On Shop, Shirt - Arrow,Formal,900,1,900
+339,12/5/2019,On Shop, Jeans - Denim,Casual Wear,900,1,900
+340,12/6/2019,On Shop, Jeans - Lega,Casual Wear,900,1,900
+341,12/7/2019,On Shop, T-shirt,Semi Formal,900,1,900
+342,12/8/2019,On Shop, T-shirt,Semi Formal,900,1,900
+343,12/9/2019,On Shop, Jeans - Lega,Casual Wear,900,1,900
+344,12/10/2019,On Shop, Jeans - Zara,Casual Wear,900,2,1800
+345,12/11/2019,On Shop, Jeans - Levis,Casual Wear,1100,2,2200
+346,12/12/2019,Online Order, Jeans - Zara,Casual Wear,900,2,1800
+347,12/13/2019,On Shop, Wallet,Accessories,800,1,800
+348,12/14/2019,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+349,12/15/2019,On Shop, Chain,Accessories,600,1,600
+350,12/16/2019,Online Order, Jeans - Levis,Casual Wear,1100,3,3300
+351,12/17/2019,Online Order, shirt,Formal,850,1,850
+352,12/18/2019,Online Order, Chain,Accessories,600,1,600
+353,12/19/2019,Online Order, Chain,Accessories,600,1,600
+354,12/20/2019,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+355,12/21/2019,On Shop, Jeans - Lega,Casual Wear,1000,1,1000
+356,12/22/2019,On Shop, Jeans - Zara,Casual Wear,900,1,900
+357,12/23/2019,On Shop, Chain,Accessories,600,1,600
+358,12/24/2019,On Shop, Jeans - Zara,Casual Wear,900,1,900
+359,12/25/2019,On Shop, T-shirt,Semi Formal,600,1,600
+360,12/26/2019,On Shop, Jeans - Denim,Casual Wear,900,1,900
+361,12/27/2019,On Shop, T-shirt,Semi Formal,600,1,600
+362,12/28/2019,On Shop, Jeans - Zara,Casual Wear,900,1,900
+363,12/29/2019,On Shop, Chain,Accessories,600,1,600
+364,12/30/2019,On Shop, Jeans - Levis,Casual Wear,1100,2,2200
+365,12/31/2019,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+366,1/1/2020,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+367,1/2/2020,On Shop, T-shirt,Semi Formal,600,2,1200
+368,1/3/2020,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+369,1/4/2020,On Shop, Chain,Accessories,600,1,600
+370,1/5/2020,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+371,1/6/2020,Online Order, T-shirt,Semi Formal,600,1,600
+372,1/7/2020,Online Order, Jeans - Levis,Casual Wear,1100,1,1100
+373,1/8/2020,Online Order, Jeans - Zara,Casual Wear,900,1,900
+374,1/9/2020,Online Order, Shirt - Arrow,Formal,1200,1,1200
+375,1/10/2020,Online Order, Wallet,Accessories,500,1,500
+376,1/11/2020,Online Order, T-shirt,Semi Formal,600,1,600
+377,1/12/2020,Online Order, T-shirt,Semi Formal,600,1,600
+378,1/13/2020,Online Order, Jeans - Levis,Casual Wear,1100,1,1100
+379,1/14/2020,Online Order, Jeans - Levis,Casual Wear,1100,1,1100
+380,1/15/2020,On Shop, Wallet,Accessories,900,1,900
+381,1/16/2020,On Shop, Chain,Accessories,600,1,600
+382,1/17/2020,Online Order, Jeans - Levis,Casual Wear,1100,1,1100
+383,1/18/2020,Online Order, T-shirt,Semi Formal,600,1,600
+384,1/19/2020,Online Order, Jeans - Zara,Casual Wear,900,1,900
+385,1/20/2020,Online Order, T-shirt,Semi Formal,600,1,600
+386,1/21/2020,On Shop, T-shirt,Semi Formal,600,1,600
+387,1/22/2020,On Shop, T-shirt,Semi Formal,600,1,600
+388,1/23/2020,On Shop, Wallet,Accessories,500,1,500
+389,1/24/2020,On Shop, T-shirt,Semi Formal,600,1,600
+390,1/25/2020,Online Order, Jeans - Zara,Casual Wear,900,1,900
+391,1/26/2020,On Shop, Shirt - Arrow,Formal,1200,2,2400
+392,1/27/2020,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+393,1/28/2020,On Shop, Shirt - PE,Semi Formal,800,1,800
+394,1/29/2020,On Shop, Shirt - PE,Semi Formal,800,1,800
+395,1/30/2020,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+396,1/31/2020,On Shop, Jeans - Lega,Casual Wear,1000,1,1000
+397,2/1/2020,On Shop, Wallet,Accessories,500,1,500
+398,2/2/2020,On Shop, Jeans - Denim,Casual Wear,900,1,900
+399,2/3/2020,On Shop, T-shirt,Semi Formal,600,1,600
+400,2/4/2020,On Shop, Jeans - Denim,Casual Wear,900,1,900
+401,2/5/2020,On Shop, Shirt - Arrow,Formal,1200,1,1200
+402,2/6/2020,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+403,2/7/2020,On Shop, Shirt - PE,Semi Formal,800,1,800
+404,2/8/2020,On Shop, Jeans - Denim,Casual Wear,900,1,900
+405,2/9/2020,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+406,2/10/2020,Online Order, Shirt - PE,Semi Formal,800,1,800
+407,2/11/2020,On Shop, shirt,Formal,900,1,900
+408,2/12/2020,On Shop, Jeans - Zara,Casual Wear,900,1,900
+409,2/13/2020,On Shop, Jeans - Levis,Casual Wear,900,1,900
+410,2/14/2020,On Shop, T-shirt,Semi Formal,600,1,600
+411,2/15/2020,On Shop, Shirt - Arrow,Formal,1200,1,1200
+412,2/16/2020,On Shop, T-shirt,Semi Formal,600,1,600
+413,2/17/2020,On Shop, T-shirt,Semi Formal,600,1,600
+414,2/18/2020,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+415,2/19/2020,On Shop, Jeans - Denim,Casual Wear,900,1,900
+416,2/20/2020,On Shop, Jeans - Lega,Casual Wear,1000,1,1000
+417,2/21/2020,On Shop, Jeans - Denim,Casual Wear,900,1,900
+418,2/22/2020,On Shop, T-shirt,Semi Formal,600,1,600
+419,2/23/2020,On Shop, shirt,Formal,850,1,850
+420,2/24/2020,On Shop, Wallet,Accessories,500,1,500
+421,2/25/2020,On Shop, Jeans - Lega,Casual Wear,1000,1,1000
+422,2/26/2020,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+423,2/27/2020,On Shop, Jeans - Levis,Casual Wear,1100,2,2200
+424,2/28/2020,On Shop, Jeans - Zara,Casual Wear,900,1,900
+425,2/29/2020,On Shop, Jeans - Zara,Casual Wear,900,1,900
+426,3/1/2020,On Shop, T-shirt,Semi Formal,600,1,600
+427,3/2/2020,On Shop, Wallet,Accessories,900,1,900
+428,3/3/2020,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+429,3/4/2020,On Shop, T-shirt,Semi Formal,600,1,600
+430,3/5/2020,On Shop, T-shirt,Semi Formal,600,1,600
+431,3/6/2020,On Shop, Wallet,Accessories,500,1,500
+432,3/7/2020,On Shop, Jeans - Zara,Casual Wear,900,1,900
+433,3/8/2020,On Shop, Shirt - Arrow,Formal,1200,1,1200
+434,3/9/2020,On Shop, T-shirt,Semi Formal,600,2,1200
+435,3/10/2020,On Shop, Jeans - Zara,Casual Wear,900,1,900
+436,3/11/2020,On Shop, Jeans - Levis,Casual Wear,1100,2,2200
+437,3/12/2020,On Shop, Chain,Accessories,600,1,600
+438,3/13/2020,On Shop, T-shirt,Semi Formal,600,1,600
+439,3/14/2020,On Shop, Chain,Accessories,300,2,600
+440,3/15/2020,On Shop, Jeans - Levis,Casual Wear,1100,2,2200
+441,3/16/2020,On Shop, Jeans - Lega,Casual Wear,1000,1,1000
+442,3/17/2020,On Shop, T-shirt,Semi Formal,600,1,600
+443,3/18/2020,On Shop, Jeans - Zara,Casual Wear,900,1,900
+444,3/19/2020,On Shop, Shirt - Arrow,Formal,1200,1,1200
+445,3/20/2020,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+446,3/21/2020,On Shop, shirt,Formal,850,1,850
+447,3/22/2020,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+448,3/23/2020,On Shop, Jeans - Levis,Casual Wear,1100,2,2200
+449,3/24/2020,On Shop, Jeans - Zara,Casual Wear,900,1,900
+450,3/25/2020,On Shop, T-shirt,Semi Formal,600,1,600
+451,3/26/2020,On Shop, T-shirt,Semi Formal,600,1,600
+452,3/27/2020,On Shop, Shirt - Arrow,Formal,1200,1,1200
+453,3/28/2020,On Shop, Jeans - Zara,Casual Wear,900,1,900
+454,3/29/2020,On Shop, Shirt - PE,Semi Formal,800,1,800
+455,3/30/2020,On Shop, Jeans - Zara,Casual Wear,900,1,900
+456,3/31/2020,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+457,4/1/2020,On Shop, Chain,Accessories,600,1,600
+458,4/2/2020,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+459,4/3/2020,On Shop, Shirt - PE,Semi Formal,800,1,800
+460,4/4/2020,On Shop, Jeans - Zara,Casual Wear,900,1,900
+461,4/5/2020,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+462,4/6/2020,On Shop, Jeans - Zara,Casual Wear,900,1,900
+463,4/7/2020,On Shop, T-shirt,Semi Formal,600,1,600
+464,4/8/2020,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+465,4/9/2020,On Shop, Jeans - Levis,Casual Wear,1100,2,2200
+466,4/10/2020,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+467,4/11/2020,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+468,4/12/2020,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+469,4/13/2020,On Shop, T-shirt,Semi Formal,600,1,600
+470,4/14/2020,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+471,4/15/2020,On Shop, T-shirt,Semi Formal,600,1,600
+472,4/16/2020,On Shop, Jeans - Zara,Casual Wear,900,1,900
+473,4/17/2020,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+474,4/18/2020,On Shop, T-shirt,Semi Formal,600,1,600
+475,4/19/2020,On Shop, T-shirt,Semi Formal,600,1,600
+476,4/20/2020,On Shop, shirt,Formal,850,1,850
+477,4/21/2020,On Shop, T-shirt,Semi Formal,600,1,600
+478,4/22/2020,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+479,4/23/2020,On Shop, Chain,Accessories,300,1,300
+480,4/24/2020,On Shop, Chain,Accessories,300,1,300
+481,4/25/2020,On Shop, T-shirt,Semi Formal,600,1,600
+482,4/26/2020,On Shop, Wallet,Accessories,800,1,800
+483,4/27/2020,On Shop, T-shirt,Semi Formal,600,1,600
+484,4/28/2020,On Shop, Wallet,Accessories,500,1,500
+485,4/29/2020,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+486,4/30/2020,On Shop, T-shirt,Semi Formal,600,1,600
+487,5/1/2020,On Shop, Jeans - Denim,Casual Wear,900,1,900
+488,5/2/2020,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+489,5/3/2020,On Shop, Shirt - Arrow,Formal,1200,1,1200
+490,5/4/2020,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+491,5/5/2020,On Shop, Jeans - Denim,Casual Wear,900,1,900
+492,5/6/2020,On Shop, Wallet,Accessories,900,1,900
+493,5/7/2020,On Shop, Chain,Accessories,600,1,600
+494,5/8/2020,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+495,5/9/2020,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+496,5/10/2020,On Shop, Wallet,Accessories,500,1,500
+497,5/11/2020,On Shop, shirt,Formal,850,1,850
+498,5/12/2020,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+499,5/13/2020,On Shop, Chain,Accessories,300,1,300
+500,5/14/2020,On Shop, Shirt - PE,Semi Formal,800,1,800
+501,5/15/2020,On Shop, Jeans - Denim,Casual Wear,900,1,900
+502,5/16/2020,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+503,5/17/2020,On Shop, Wallet,Accessories,500,1,500
+504,5/18/2020,On Shop, T-shirt,Semi Formal,600,1,600
+505,5/19/2020,On Shop, Jeans - Zara,Casual Wear,900,1,900
+506,5/20/2020,On Shop, Chain,Accessories,600,1,600
+507,5/21/2020,On Shop, T-shirt,Semi Formal,600,1,600
+508,5/22/2020,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+509,5/23/2020,On Shop, Jeans - Levis,Casual Wear,1100,2,2200
+510,5/24/2020,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+511,5/25/2020,On Shop, shirt,Formal,850,1,850
+512,5/26/2020,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+513,5/27/2020,On Shop, Jeans - Denim,Casual Wear,900,1,900
+514,5/28/2020,On Shop, Jeans - Zara,Casual Wear,900,1,900
+515,5/29/2020,On Shop, Jeans - Denim,Casual Wear,900,1,900
+516,5/30/2020,On Shop, Jeans - Lega,Casual Wear,1000,1,1000
+517,5/31/2020,On Shop, Shirt - Arrow,Formal,1200,1,1200
+518,6/1/2020,On Shop, Jeans - Zara,Casual Wear,900,1,900
+519,6/2/2020,On Shop, T-shirt,Semi Formal,600,1,600
+520,6/3/2020,On Shop, Chain,Accessories,600,1,600
+521,6/4/2020,On Shop, Shirt - PE,Semi Formal,800,1,800
+522,6/5/2020,On Shop, Chain,Accessories,600,1,600
+523,6/6/2020,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+524,6/7/2020,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+525,6/8/2020,On Shop, shirt,Formal,850,1,850
+526,6/9/2020,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+527,6/10/2020,On Shop, Jeans - Levis,Casual Wear,1100,2,2200
+528,6/11/2020,On Shop, Chain,Accessories,300,1,300
+529,6/12/2020,On Shop, T-shirt,Semi Formal,600,1,600
+530,6/13/2020,On Shop, T-shirt,Semi Formal,600,1,600
+531,6/14/2020,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+532,6/15/2020,On Shop, Jeans - Zara,Casual Wear,900,1,900
+533,6/16/2020,On Shop, Jeans - Denim,Casual Wear,900,1,900
+534,6/17/2020,On Shop, Jeans - Denim,Casual Wear,900,1,900
+535,6/18/2020,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+536,6/19/2020,On Shop, Chain,Accessories,600,2,1200
+537,6/20/2020,On Shop, shirt,Formal,850,1,850
+538,6/21/2020,On Shop, Jeans - Denim,Casual Wear,900,1,900
+539,6/22/2020,On Shop, T-shirt,Semi Formal,600,1,600
+540,6/23/2020,On Shop, T-shirt,Semi Formal,600,1,600
+541,6/24/2020,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+542,6/25/2020,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+543,6/26/2020,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+544,6/27/2020,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+545,6/28/2020,On Shop, Jeans - Denim,Casual Wear,1100,1,1100
+546,6/29/2020,On Shop, Jeans - Denim,Casual Wear,1100,1,1100
+547,6/30/2020,On Shop, Jeans - Denim,Casual Wear,1100,1,1100
+548,7/1/2020,On Shop, Jeans - Denim,Casual Wear,1100,2,2200
+549,7/2/2020,On Shop, Jeans - Denim,Casual Wear,1100,1,1100
+550,7/3/2020,On Shop, Jeans - Denim,Casual Wear,1100,1,1100
+551,7/4/2020,On Shop, Jeans - Denim,Casual Wear,900,1,900
+552,7/5/2020,On Shop, Jeans - Denim,Casual Wear,900,1,900
+553,7/6/2020,On Shop, Jeans - Denim,Casual Wear,900,1,900
+554,7/7/2020,On Shop, Jeans - Denim,Casual Wear,900,2,1800
+555,7/8/2020,On Shop, Jeans - Denim,Casual Wear,900,1,900
+556,7/9/2020,On Shop, Jeans - Denim,Casual Wear,900,1,900
+557,7/10/2020,On Shop, Jeans - Denim,Casual Wear,1100,1,1100
+558,7/11/2020,Online Order, Jeans - Denim,Casual Wear,900,1,900
+559,7/12/2020,Online Order, Jeans - Denim,Casual Wear,1100,2,2200
+560,7/13/2020,Online Order, Jeans - Denim,Casual Wear,1100,1,1100
+561,7/14/2020,Online Order, Jeans - Denim,Casual Wear,900,1,900
+562,7/15/2020,Online Order, Jeans - Denim,Casual Wear,900,1,900
+563,7/16/2020,Online Order, Jeans - Zara,Casual Wear,900,1,900
+564,7/17/2020,Online Order, Jeans - Denim,Casual Wear,1100,1,1100
+565,7/18/2020,Online Order, Jeans - Denim,Casual Wear,1100,1,1100
+566,7/19/2020,Online Order, Jeans - Zara,Casual Wear,900,1,900
+567,7/20/2020,On Shop, Jeans - Denim,Casual Wear,900,1,900
+568,7/21/2020,On Shop, Jeans - Zara,Casual Wear,900,1,900
+569,7/22/2020,On Shop, Jeans - Denim,Casual Wear,1100,1,1100
+570,7/23/2020,On Shop, Jeans - Denim,Casual Wear,1100,1,1100
+571,7/24/2020,On Shop, Jeans - Zara,Casual Wear,900,1,900
+572,7/25/2020,On Shop, Jeans - Zara,Casual Wear,900,1,900
+573,7/26/2020,On Shop, Jeans - Zara,Casual Wear,900,1,900
+574,7/27/2020,On Shop, Jeans - Zara,Casual Wear,900,1,900
+575,7/28/2020,On Shop, Jeans - Zara,Casual Wear,900,1,900
+576,7/29/2020,On Shop, Jeans - Denim,Casual Wear,900,1,900
+577,7/30/2020,On Shop, Jeans - Denim,Casual Wear,900,1,900
+578,7/31/2020,On Shop, Jeans - Denim,Casual Wear,900,1,900
+579,8/1/2020,On Shop, Jeans - Denim,Casual Wear,1100,1,1100
+580,8/2/2020,On Shop, Jeans - Denim,Casual Wear,1100,1,1100
+581,8/3/2020,On Shop, Jeans - Lega,Casual Wear,1000,1,1000
+582,8/4/2020,On Shop, Jeans - Lega,Casual Wear,1000,1,1000
+583,8/5/2020,On Shop, Jeans - Denim,Casual Wear,1100,1,1100
+584,8/6/2020,On Shop, Jeans - Lega,Casual Wear,1000,1,1000
+585,8/7/2020,On Shop, Jeans - Denim,Casual Wear,900,1,900
+586,8/8/2020,On Shop, Jeans - Denim,Casual Wear,900,2,1800
+587,8/9/2020,On Shop, Jeans - Denim,Casual Wear,1100,1,1100
+588,8/10/2020,On Shop, Jeans - Denim,Casual Wear,900,1,900
+589,8/11/2020,On Shop, Jeans - Denim,Casual Wear,1100,1,1100
+590,8/12/2020,On Shop, Shirt - PE,Semi Formal,800,1,800
+591,8/13/2020,On Shop, Shirt - PE,Semi Formal,800,2,1600
+592,8/14/2020,On Shop, Jeans - Zara,Casual Wear,900,1,900
+593,8/15/2020,On Shop, Jeans - Denim,Casual Wear,1100,1,1100
+594,8/16/2020,On Shop, Shirt - PE,Semi Formal,800,1,800
+595,8/17/2020,On Shop, Jeans - Lega,Casual Wear,1000,1,1000
+596,8/18/2020,On Shop, Shirt - PE,Semi Formal,800,1,800
+597,8/19/2020,On Shop, T-shirt,Semi Formal,600,1,600
+598,8/20/2020,On Shop, Jeans - Denim,Casual Wear,900,1,900
+599,8/21/2020,On Shop, Jeans - Denim,Casual Wear,1100,1,1100
+600,8/22/2020,On Shop, Jeans - Lega,Casual Wear,1000,1,1000
+601,8/23/2020,On Shop, Jeans - Denim,Casual Wear,900,1,900
+602,8/24/2020,On Shop, Jeans - Denim,Casual Wear,1100,2,2200
+603,8/25/2020,On Shop, T-shirt,Semi Formal,600,1,600
+604,8/26/2020,On Shop, T-shirt,Semi Formal,600,1,600
+605,8/27/2020,On Shop, T-shirt,Semi Formal,600,1,600
+606,8/28/2020,On Shop, Jeans - Denim,Casual Wear,900,1,900
+607,8/29/2020,On Shop, T-shirt,Semi Formal,600,1,600
+608,8/30/2020,On Shop, T-shirt,Semi Formal,600,1,600
+609,8/31/2020,On Shop, Jeans - Denim,Casual Wear,1100,1,1100
+610,9/1/2020,On Shop, Jeans - Zara,Casual Wear,900,3,2700
+611,9/2/2020,On Shop, Jeans - Denim,Casual Wear,1100,2,2200
+612,9/3/2020,On Shop, Jeans - Denim,Casual Wear,1100,1,1100
+613,9/4/2020,On Shop, T-shirt,Semi Formal,600,1,600
+614,9/5/2020,On Shop, Jeans - Denim,Casual Wear,900,1,900
+615,9/6/2020,On Shop, T-shirt,Semi Formal,600,1,600
+616,9/7/2020,On Shop, T-shirt,Semi Formal,600,1,600
+617,9/8/2020,On Shop, Jeans - Denim,Casual Wear,900,3,2700
+618,9/9/2020,On Shop, T-shirt,Semi Formal,600,1,600
+619,9/10/2020,On Shop, Shirt - PE,Semi Formal,800,1,800
+620,9/11/2020,On Shop, T-shirt,Semi Formal,600,1,600
+621,9/12/2020,On Shop, Jeans - Denim,Casual Wear,1100,1,1100
+622,9/13/2020,On Shop, Jeans - Zara,Casual Wear,900,1,900
+623,9/14/2020,On Shop, Jeans - Denim,Casual Wear,1100,1,1100
+624,9/15/2020,On Shop, Jeans - Denim,Casual Wear,1100,1,1100
+625,9/16/2020,On Shop, Jeans - Denim,Casual Wear,1100,1,1100
+626,9/17/2020,On Shop, Jeans - Lega,Casual Wear,1000,1,1000
+627,9/18/2020,On Shop, T-shirt,Semi Formal,600,1,600
+628,9/19/2020,On Shop, Shirt - PE,Semi Formal,800,1,800
+629,9/20/2020,On Shop, Jeans - Denim,Casual Wear,1100,1,1100
+630,9/21/2020,On Shop, T-shirt,Semi Formal,600,1,600
+631,9/22/2020,On Shop, shirt,Formal,850,1,850
+632,9/23/2020,On Shop, Jeans - Zara,Casual Wear,900,1,900
+633,9/24/2020,On Shop, Jeans - Lega,Casual Wear,1000,1,1000
+634,9/25/2020,On Shop, shirt,Formal,850,1,850
+635,9/26/2020,On Shop, shirt,Formal,850,1,850
+636,9/27/2020,On Shop, Jeans - Lega,Casual Wear,1000,1,1000
+637,9/28/2020,On Shop, Shirt - PE,Semi Formal,800,1,800
+638,9/29/2020,On Shop, Jeans - Denim,Casual Wear,1100,1,1100
+639,9/30/2020,On Shop, Jeans - Denim,Casual Wear,1100,1,1100
+640,10/1/2020,On Shop, Jeans - Denim,Casual Wear,1100,1,1100
+641,10/2/2020,On Shop, Jeans - Denim,Casual Wear,1100,1,1100
+642,10/3/2020,On Shop, Jeans - Denim,Casual Wear,1100,1,1100
+643,10/4/2020,On Shop, Jeans - Denim,Casual Wear,1100,1,1100
+644,10/5/2020,On Shop, Jeans - Denim,Casual Wear,1100,2,2200
+645,10/6/2020,On Shop, Jeans - Denim,Casual Wear,1100,1,1100
+646,10/7/2020,On Shop, Jeans - Denim,Casual Wear,1100,1,1100
+647,10/8/2020,On Shop, Jeans - Denim,Casual Wear,900,1,900
+648,10/9/2020,On Shop, Jeans - Denim,Casual Wear,900,1,900
+649,10/10/2020,On Shop, Jeans - Denim,Casual Wear,900,1,900
+650,10/11/2020,On Shop, Jeans - Denim,Casual Wear,900,2,1800
+651,10/12/2020,On Shop, Jeans - Denim,Casual Wear,900,1,900
+652,10/13/2020,On Shop, Jeans - Denim,Casual Wear,900,1,900
+653,10/14/2020,On Shop, Jeans - Denim,Casual Wear,1100,1,1100
+654,10/15/2020,On Shop, Jeans - Denim,Casual Wear,900,1,900
+655,10/16/2020,On Shop, Jeans - Denim,Casual Wear,1100,2,2200
+656,10/17/2020,On Shop, Jeans - Denim,Casual Wear,1100,1,1100
+657,10/18/2020,On Shop, Jeans - Denim,Casual Wear,900,1,900
+658,10/19/2020,On Shop, Jeans - Denim,Casual Wear,900,1,900
+659,10/20/2020,On Shop, Jeans - Zara,Casual Wear,900,1,900
+660,10/21/2020,On Shop, Jeans - Denim,Casual Wear,1100,1,1100
+661,10/22/2020,On Shop, Jeans - Denim,Casual Wear,1100,1,1100
+662,10/23/2020,On Shop, Jeans - Zara,Casual Wear,900,1,900
+663,10/24/2020,On Shop, Jeans - Denim,Casual Wear,900,1,900
+664,10/25/2020,On Shop, Jeans - Zara,Casual Wear,900,1,900
+665,10/26/2020,On Shop, Jeans - Denim,Casual Wear,1100,1,1100
+666,10/27/2020,On Shop, Jeans - Denim,Casual Wear,1100,1,1100
+667,10/28/2020,On Shop, Jeans - Zara,Casual Wear,900,1,900
+668,10/29/2020,On Shop, Jeans - Zara,Casual Wear,900,1,900
+669,10/30/2020,On Shop, Jeans - Zara,Casual Wear,900,1,900
+670,10/31/2020,On Shop, Jeans - Zara,Casual Wear,900,1,900
+671,11/1/2020,On Shop, Jeans - Zara,Casual Wear,900,1,900
+672,11/2/2020,On Shop, Jeans - Denim,Casual Wear,900,1,900
+673,11/3/2020,On Shop, Jeans - Denim,Casual Wear,900,1,900
+674,11/4/2020,On Shop, Jeans - Denim,Casual Wear,900,1,900
+675,11/5/2020,On Shop, Jeans - Denim,Casual Wear,1100,1,1100
+676,11/6/2020,On Shop, Jeans - Denim,Casual Wear,1100,1,1100
+677,11/7/2020,On Shop, Jeans - Lega,Casual Wear,1000,1,1000
+678,11/8/2020,On Shop, Jeans - Lega,Casual Wear,1000,1,1000
+679,11/9/2020,On Shop, Jeans - Denim,Casual Wear,1100,1,1100
+680,11/10/2020,On Shop, Jeans - Lega,Casual Wear,1000,1,1000
+681,11/11/2020,On Shop, Jeans - Denim,Casual Wear,900,1,900
+682,11/12/2020,On Shop, Jeans - Denim,Casual Wear,900,2,1800
+683,11/13/2020,On Shop, Jeans - Denim,Casual Wear,1100,1,1100
+684,11/14/2020,On Shop, Jeans - Denim,Casual Wear,900,1,900
+685,11/15/2020,On Shop, Jeans - Denim,Casual Wear,1100,1,1100
+686,11/16/2020,On Shop, Shirt - PE,Semi Formal,800,1,800
+687,11/17/2020,On Shop, Shirt - PE,Semi Formal,800,2,1600
+688,11/18/2020,On Shop, Jeans - Zara,Casual Wear,900,1,900
+689,11/19/2020,On Shop, Jeans - Denim,Casual Wear,1100,1,1100
+690,11/20/2020,On Shop, Shirt - PE,Semi Formal,800,1,800
+691,11/21/2020,On Shop, Jeans - Lega,Casual Wear,1000,1,1000
+692,11/22/2020,On Shop, Shirt - PE,Semi Formal,800,1,800
+693,11/23/2020,On Shop, T-shirt,Semi Formal,600,1,600
+694,11/24/2020,On Shop, Jeans - Denim,Casual Wear,900,1,900
+695,11/25/2020,On Shop, Jeans - Denim,Casual Wear,1100,1,1100
+696,11/26/2020,On Shop, Jeans - Lega,Casual Wear,1000,1,1000
+697,11/27/2020,On Shop, Jeans - Denim,Casual Wear,900,1,900
+698,11/28/2020,On Shop, Jeans - Denim,Casual Wear,1100,2,2200
+699,11/29/2020,On Shop, T-shirt,Semi Formal,600,1,600
+700,11/30/2020,On Shop, T-shirt,Semi Formal,600,1,600
+701,12/1/2020,On Shop, T-shirt,Semi Formal,600,1,600
+702,12/2/2020,On Shop, Jeans - Denim,Casual Wear,900,1,900
+703,12/3/2020,On Shop, T-shirt,Semi Formal,600,1,600
+704,12/4/2020,On Shop, T-shirt,Semi Formal,600,1,600
+705,12/5/2020,On Shop, Jeans - Denim,Casual Wear,1100,1,1100
+706,12/6/2020,On Shop, Jeans - Zara,Casual Wear,900,3,2700
+707,12/7/2020,On Shop, Jeans - Levis,Casual Wear,1100,2,2200
+708,12/8/2020,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+709,12/9/2020,On Shop, T-shirt,Semi Formal,600,1,600
+710,12/10/2020,On Shop, Jeans - Denim,Casual Wear,900,1,900
+711,12/11/2020,On Shop, T-shirt,Semi Formal,600,1,600
+712,12/12/2020,On Shop, T-shirt,Semi Formal,600,1,600
+713,12/13/2020,Online Order, Jeans - Denim,Casual Wear,900,3,2700
+714,12/14/2020,Online Order, T-shirt,Semi Formal,600,1,600
+715,12/15/2020,Online Order, Shirt - PE,Semi Formal,800,1,800
+716,12/16/2020,Online Order, T-shirt,Semi Formal,600,1,600
+717,12/17/2020,Online Order, Jeans - Levis,Casual Wear,1100,1,1100
+718,12/18/2020,Online Order, Jeans - Zara,Casual Wear,900,1,900
+719,12/19/2020,Online Order, Jeans - Levis,Casual Wear,1100,1,1100
+720,12/20/2020,Online Order, Jeans - Levis,Casual Wear,1100,1,1100
+721,12/21/2020,Online Order, Jeans - Levis,Casual Wear,1100,1,1100
+722,12/22/2020,On Shop, Jeans - Lega,Casual Wear,1000,1,1000
+723,12/23/2020,On Shop, T-shirt,Semi Formal,600,1,600
+724,12/24/2020,On Shop, Shirt - PE,Semi Formal,800,1,800
+725,12/25/2020,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+726,12/26/2020,On Shop, T-shirt,Semi Formal,600,1,600
+727,12/27/2020,On Shop, shirt,Formal,850,1,850
+728,12/28/2020,On Shop, Jeans - Zara,Casual Wear,900,1,900
+729,12/29/2020,On Shop, Jeans - Lega,Casual Wear,1000,1,1000
+730,12/30/2020,On Shop, shirt,Formal,850,1,850
+731,12/31/2020,On Shop, shirt,Formal,850,1,850
+732,1/1/2021,On Shop, Jeans - Lega,Casual Wear,1000,1,1000
+733,1/2/2021,On Shop, Shirt - PE,Semi Formal,800,1,800
+734,1/3/2021,On Shop, T-shirt,Semi Formal,600,1,600
+735,1/4/2021,On Shop, Shirt - PE,Semi Formal,800,1,800
+736,1/5/2021,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+737,1/6/2021,On Shop, shirt,Formal,850,1,850
+738,1/7/2021,On Shop, shirt,Formal,850,1,850
+739,1/8/2021,On Shop, shirt,Formal,850,1,850
+740,1/9/2021,On Shop, T-shirt,Semi Formal,600,1,600
+741,1/10/2021,On Shop, shirt,Formal,850,1,850
+742,1/11/2021,On Shop, shirt,Formal,850,1,850
+743,1/12/2021,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+744,1/13/2021,On Shop, Jeans - Lega,Casual Wear,1000,1,1000
+745,1/14/2021,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+746,1/15/2021,On Shop, T-shirt,Semi Formal,600,1,600
+747,1/16/2021,On Shop, T-shirt,Semi Formal,600,2,1200
+748,1/17/2021,On Shop, T-shirt,Semi Formal,600,1,600
+749,1/18/2021,On Shop, T-shirt,Semi Formal,600,1,600
+750,1/19/2021,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+751,1/20/2021,On Shop, Jeans - Zara,Casual Wear,900,1,900
+752,1/21/2021,On Shop, T-shirt,Semi Formal,600,1,600
+753,1/22/2021,On Shop, Jeans - Zara,Casual Wear,900,1,900
+754,1/23/2021,On Shop, Jeans - Denim,Casual Wear,900,1,900
+755,1/24/2021,On Shop, T-shirt,Semi Formal,600,1,600
+756,1/25/2021,On Shop, T-shirt,Semi Formal,600,1,600
+757,1/26/2021,On Shop, T-shirt,Semi Formal,600,1,600
+758,1/27/2021,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+759,1/28/2021,On Shop, T-shirt,Semi Formal,600,1,600
+760,1/29/2021,On Shop, T-shirt,Semi Formal,600,1,600
+761,1/30/2021,On Shop, T-shirt,Semi Formal,600,1,600
+762,1/31/2021,On Shop, Jeans - Denim,Casual Wear,900,1,900
+763,2/1/2021,On Shop, T-shirt,Semi Formal,600,1,600
+764,2/2/2021,On Shop, Jeans - Zara,Casual Wear,900,1,900
+765,2/3/2021,On Shop, Shirt - Arrow,Formal,1200,1,1200
+766,2/4/2021,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+767,2/5/2021,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+768,2/6/2021,On Shop, T-shirt,Semi Formal,600,1,600
+769,2/7/2021,On Shop, T-shirt,Semi Formal,600,2,1200
+770,2/8/2021,On Shop, Shirt - Arrow,Formal,1200,1,1200
+771,2/9/2021,On Shop, Shirt - Arrow,Formal,1200,1,1200
+772,2/10/2021,On Shop, Jeans - Lega,Casual Wear,1000,1,1000
+773,2/11/2021,On Shop, Shirt - PE,Semi Formal,800,2,1600
+774,2/12/2021,On Shop, Shirt - Arrow,Formal,1200,1,1200
+775,2/13/2021,On Shop, Jeans - Zara,Casual Wear,900,1,900
+776,2/14/2021,On Shop, Jeans - Lega,Casual Wear,1000,1,1000
+777,2/15/2021,On Shop, Shirt - PE,Semi Formal,800,1,800
+778,2/16/2021,On Shop, Shirt - Arrow,Formal,1200,1,1200
+779,2/17/2021,On Shop, Shirt - Arrow,Formal,1200,1,1200
+780,2/18/2021,On Shop, Shirt - PE,Semi Formal,800,2,1600
+781,2/19/2021,On Shop, Jeans - Denim,Casual Wear,900,1,900
+782,2/20/2021,On Shop, Jeans - Lega,Casual Wear,1000,1,1000
+783,2/21/2021,On Shop, Jeans - Lega,Casual Wear,1000,1,1000
+784,2/22/2021,On Shop, T-shirt,Semi Formal,600,1,600
+785,2/23/2021,On Shop, shirt,Formal,850,1,850
+786,2/24/2021,On Shop, T-shirt,Semi Formal,600,1,600
+787,2/25/2021,On Shop, shirt,Formal,850,1,850
+788,2/26/2021,On Shop, shirt,Formal,850,1,850
+789,2/27/2021,On Shop, Jeans - Denim,Casual Wear,900,1,900
+790,2/28/2021,On Shop, Shirt - Arrow,Formal,1200,2,2400
+791,3/1/2021,On Shop, Shirt - PE,Semi Formal,800,1,800
+792,3/2/2021,On Shop, Shirt - PE,Semi Formal,800,1,800
+793,3/3/2021,On Shop, Jeans - Zara,Casual Wear,900,1,900
+794,3/4/2021,On Shop, Shirt - PE,Semi Formal,800,1,800
+795,3/5/2021,On Shop, T-shirt,Semi Formal,600,1,600
+796,3/6/2021,On Shop, Jeans - Denim,Casual Wear,900,3,2700
+797,3/7/2021,On Shop, T-shirt,Semi Formal,600,1,600
+798,3/8/2021,On Shop, Shirt - PE,Semi Formal,800,1,800
+799,3/9/2021,On Shop, T-shirt,Semi Formal,600,1,600
+800,3/10/2021,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+801,3/11/2021,On Shop, Jeans - Zara,Casual Wear,900,1,900
+802,3/12/2021,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+803,3/13/2021,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+804,3/14/2021,On Shop, Shirt - Arrow,Formal,1200,1,1200
+805,3/15/2021,On Shop, Shirt - Arrow,Formal,1200,1,1200
+806,3/16/2021,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+807,3/17/2021,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+808,3/18/2021,On Shop, Wallet,Accessories,900,1,900
+809,3/19/2021,On Shop, Jeans - Zara,Casual Wear,900,1,900
+810,3/20/2021,On Shop, Wallet,Accessories,800,1,800
+811,3/21/2021,On Shop, T-shirt,Semi Formal,600,1,600
+812,3/22/2021,On Shop, Wallet,Accessories,800,1,800
+813,3/23/2021,On Shop, Jeans - Zara,Casual Wear,900,1,900
+814,3/24/2021,On Shop, Shirt - Arrow,Formal,1200,1,1200
+815,3/25/2021,On Shop, Wallet,Accessories,800,1,800
+816,3/26/2021,On Shop, Jeans - Denim,Casual Wear,900,1,900
+817,3/27/2021,On Shop, Shirt - Arrow,Formal,1200,1,1200
+818,3/28/2021,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+819,3/29/2021,On Shop, Shirt - Arrow,Formal,1200,1,1200
+820,3/30/2021,On Shop, Jeans - Zara,Casual Wear,900,1,900
+821,3/31/2021,On Shop, Jeans - Levis,Casual Wear,1100,2,2200
+822,4/1/2021,On Shop, Shirt - Arrow,Formal,1200,1,1200
+823,4/2/2021,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+824,4/3/2021,On Shop, Jeans - Denim,Casual Wear,900,1,900
+825,4/4/2021,On Shop, T-shirt,Semi Formal,600,1,600
+826,4/5/2021,On Shop, Wallet,Accessories,900,1,900
+827,4/6/2021,On Shop, Shirt - PE,Semi Formal,800,1,800
+828,4/7/2021,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+829,4/8/2021,On Shop, Jeans - Zara,Casual Wear,900,1,900
+830,4/9/2021,On Shop, Jeans - Lega,Casual Wear,1000,1,1000
+831,4/10/2021,On Shop, shirt,Formal,850,1,850
+832,4/11/2021,On Shop, T-shirt,Semi Formal,600,1,600
+833,4/12/2021,On Shop, Jeans - Zara,Casual Wear,900,1,900
+834,4/13/2021,On Shop, Jeans - Lega,Casual Wear,1000,1,1000
+835,4/14/2021,On Shop, Jeans - Zara,Casual Wear,900,1,900
+836,4/15/2021,On Shop, Jeans - Denim,Casual Wear,900,1,900
+837,4/16/2021,On Shop, T-shirt,Semi Formal,600,1,600
+838,4/17/2021,On Shop, Wallet,Accessories,900,1,900
+839,4/18/2021,On Shop, Wallet,Accessories,800,1,800
+840,4/19/2021,On Shop, Shirt - PE,Semi Formal,800,1,800
+841,4/20/2021,On Shop, T-shirt,Semi Formal,600,1,600
+842,4/21/2021,On Shop, Wallet,Accessories,500,1,500
+843,4/22/2021,On Shop, Jeans - Zara,Casual Wear,900,1,900
+844,4/23/2021,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+845,4/24/2021,On Shop, Wallet,Accessories,500,1,500
+846,4/25/2021,On Shop, T-shirt,Semi Formal,600,1,600
+847,4/26/2021,On Shop, Jeans - Zara,Casual Wear,900,1,900
+848,4/27/2021,On Shop, Wallet,Accessories,500,1,500
+849,4/28/2021,On Shop, Wallet,Accessories,500,1,500
+850,4/29/2021,On Shop, T-shirt,Semi Formal,600,1,600
+851,4/30/2021,On Shop, T-shirt,Semi Formal,600,1,600
+852,5/1/2021,On Shop, Shirt - PE,Semi Formal,800,1,800
+853,5/2/2021,On Shop, shirt,Formal,850,1,850
+854,5/3/2021,On Shop, Wallet,Accessories,500,1,500
+855,5/4/2021,On Shop, Wallet,Accessories,500,1,500
+856,5/5/2021,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+857,5/6/2021,On Shop, Wallet,Accessories,500,1,500
+858,5/7/2021,On Shop, Jeans - Lega,Casual Wear,1000,1,1000
+859,5/8/2021,On Shop, Shirt - PE,Semi Formal,800,1,800
+860,5/9/2021,On Shop, Chain,Accessories,600,1,600
+861,5/10/2021,On Shop, Chain,Accessories,600,1,600
+862,5/11/2021,On Shop, shirt,Formal,850,1,850
+863,5/12/2021,On Shop, Chain,Accessories,600,1,600
+864,5/13/2021,On Shop, T-shirt,Semi Formal,600,1,600
+865,5/14/2021,On Shop, Chain,Accessories,600,1,600
+866,5/15/2021,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+867,5/16/2021,On Shop, T-shirt,Semi Formal,600,1,600
+868,5/17/2021,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+869,5/18/2021,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+870,5/19/2021,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+871,5/20/2021,On Shop, shirt,Formal,850,1,850
+872,5/21/2021,On Shop, T-shirt,Semi Formal,600,1,600
+873,5/22/2021,On Shop, T-shirt,Semi Formal,600,1,600
+874,5/23/2021,On Shop, Shirt - PE,Semi Formal,800,1,800
+875,5/24/2021,On Shop, Shirt - Arrow,Formal,1200,1,1200
+876,5/25/2021,On Shop, Jeans - Lega,Casual Wear,1000,1,1000
+877,5/26/2021,On Shop, Chain,Accessories,600,1,600
+878,5/27/2021,On Shop, Jeans - Zara,Casual Wear,900,1,900
+879,5/28/2021,On Shop, T-shirt,Semi Formal,600,1,600
+880,5/29/2021,On Shop, Jeans - Denim,Casual Wear,900,1,900
+881,5/30/2021,On Shop, Chain,Accessories,600,1,600
+882,5/31/2021,On Shop, shirt,Formal,850,1,850
+883,6/1/2021,On Shop, Jeans - Zara,Casual Wear,900,1,900
+884,6/2/2021,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+885,6/3/2021,On Shop, Jeans - Zara,Casual Wear,900,1,900
+886,6/4/2021,On Shop, Jeans - Lega,Casual Wear,1000,1,1000
+887,6/5/2021,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+888,6/6/2021,On Shop, Jeans - Lega,Casual Wear,1000,1,1000
+889,6/7/2021,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+890,6/8/2021,On Shop, Jeans - Zara,Casual Wear,900,1,900
+891,6/9/2021,On Shop, Jeans - Denim,Casual Wear,900,1,900
+892,6/10/2021,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+893,6/11/2021,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+894,6/12/2021,On Shop, Jeans - Lega,Casual Wear,1000,1,1000
+895,6/13/2021,On Shop, Jeans - Denim,Casual Wear,900,1,900
+896,6/14/2021,On Shop, T-shirt,Semi Formal,600,1,600
+897,6/15/2021,On Shop, Jeans - Denim,Casual Wear,900,1,900
+898,6/16/2021,On Shop, T-shirt,Semi Formal,600,1,600
+899,6/17/2021,On Shop, Jeans - Zara,Casual Wear,900,1,900
+900,6/18/2021,On Shop, Jeans - Levis,Casual Wear,1100,2,2200
+901,6/19/2021,On Shop, T-shirt,Semi Formal,600,1,600
+902,6/20/2021,On Shop, T-shirt,Semi Formal,600,1,600
+903,6/21/2021,On Shop, Jeans - Zara,Casual Wear,900,1,900
+904,6/22/2021,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+905,6/23/2021,On Shop, T-shirt,Semi Formal,600,1,600
+906,6/24/2021,On Shop, Chain,Accessories,600,1,600
+907,6/25/2021,On Shop, T-shirt,Semi Formal,600,1,600
+908,6/26/2021,On Shop, Chain,Accessories,600,1,600
+909,6/27/2021,On Shop, Chain,Accessories,600,2,1200
+910,6/28/2021,On Shop, T-shirt,Semi Formal,600,1,600
+911,6/29/2021,On Shop, Jeans - Levis,Casual Wear,1100,3,3300
+912,6/30/2021,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+913,7/1/2021,On Shop, shirt,Formal,850,1,850
+914,7/2/2021,On Shop, Shirt - Arrow,Formal,1200,1,1200
+915,7/3/2021,On Shop, Shirt - PE,Semi Formal,800,1,800
+916,7/4/2021,On Shop, Jeans - Zara,Casual Wear,900,1,900
+917,7/5/2021,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+918,7/6/2021,On Shop, Jeans - Denim,Casual Wear,900,1,900
+919,7/7/2021,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+920,7/8/2021,On Shop, Wallet,Accessories,900,1,900
+921,7/9/2021,On Shop, Wallet,Accessories,500,1,500
+922,7/10/2021,On Shop, Jeans - Lega,Casual Wear,1000,1,1000
+923,7/11/2021,On Shop, Chain,Accessories,600,1,600
+924,7/12/2021,On Shop, Jeans - Denim,Casual Wear,900,2,1800
+925,7/13/2021,On Shop, shirt,Formal,850,1,850
+926,7/14/2021,On Shop, Shirt - PE,Semi Formal,800,1,800
+927,7/15/2021,On Shop, Jeans - Denim,Casual Wear,900,1,900
+928,7/16/2021,On Shop, Jeans - Denim,Casual Wear,900,1,900
+929,7/17/2021,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+930,7/18/2021,On Shop, Jeans - Zara,Casual Wear,900,1,900
+931,7/19/2021,On Shop, T-shirt,Semi Formal,600,1,600
+932,7/20/2021,On Shop, T-shirt,Semi Formal,600,1,600
+933,7/21/2021,On Shop, Jeans - Zara,Casual Wear,900,1,900
+934,7/22/2021,On Shop, shirt,Formal,850,1,850
+935,7/23/2021,On Shop, Jeans - Zara,Casual Wear,900,1,900
+936,7/24/2021,On Shop, T-shirt,Semi Formal,600,1,600
+937,7/25/2021,On Shop, T-shirt,Semi Formal,600,1,600
+938,7/26/2021,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+939,7/27/2021,On Shop, Jeans - Denim,Casual Wear,900,1,900
+940,7/28/2021,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+941,7/29/2021,On Shop, T-shirt,Semi Formal,600,1,600
+942,7/30/2021,On Shop, Shirt - Arrow,Formal,1200,1,1200
+943,7/31/2021,On Shop, Chain,Accessories,600,1,600
+944,8/1/2021,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+945,8/2/2021,On Shop, Wallet,Accessories,500,1,500
+946,8/3/2021,On Shop, Jeans - Denim,Casual Wear,900,1,900
+947,8/4/2021,On Shop, shirt,Formal,850,1,850
+948,8/5/2021,On Shop, T-shirt,Semi Formal,600,1,600
+949,8/6/2021,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+950,8/7/2021,On Shop, Wallet,Accessories,500,1,500
+951,8/8/2021,On Shop, T-shirt,Semi Formal,600,1,600
+952,8/9/2021,On Shop, Jeans - Lega,Casual Wear,1000,1,1000
+953,8/10/2021,On Shop, T-shirt,Semi Formal,600,1,600
+954,8/11/2021,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+955,8/12/2021,On Shop, Wallet,Accessories,500,1,500
+956,8/13/2021,On Shop, Jeans - Levis,Casual Wear,1100,2,2200
+957,8/14/2021,On Shop, T-shirt,Semi Formal,600,1,600
+958,8/15/2021,On Shop, Shirt - PE,Semi Formal,800,1,800
+959,8/16/2021,On Shop, Jeans - Zara,Casual Wear,900,1,900
+960,8/17/2021,On Shop, Chain,Accessories,600,1,600
+961,8/18/2021,On Shop, Jeans - Levis,Casual Wear,1100,2,2200
+962,8/19/2021,On Shop, Chain,Accessories,600,1,600
+963,8/20/2021,On Shop, Jeans - Zara,Casual Wear,900,1,900
+964,8/21/2021,On Shop, T-shirt,Semi Formal,600,1,600
+965,8/22/2021,On Shop, Jeans - Denim,Casual Wear,900,1,900
+966,8/23/2021,On Shop, Chain,Accessories,600,1,600
+967,8/24/2021,On Shop, shirt,Formal,850,1,850
+968,8/25/2021,On Shop, Jeans - Zara,Casual Wear,900,1,900
+969,8/26/2021,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+970,8/27/2021,On Shop, Jeans - Zara,Casual Wear,900,1,900
+971,8/28/2021,On Shop, Jeans - Lega,Casual Wear,1000,1,1000
+972,8/29/2021,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+973,8/30/2021,On Shop, Jeans - Lega,Casual Wear,1000,1,1000
+974,8/31/2021,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+975,9/1/2021,On Shop, Jeans - Zara,Casual Wear,900,1,900
+976,9/2/2021,On Shop, Jeans - Denim,Casual Wear,900,1,900
+977,9/3/2021,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+978,9/4/2021,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+979,9/5/2021,On Shop, Jeans - Lega,Casual Wear,1000,1,1000
+980,9/6/2021,On Shop, Jeans - Denim,Casual Wear,900,1,900
+981,9/7/2021,On Shop, T-shirt,Semi Formal,600,1,600
+982,9/8/2021,On Shop, Jeans - Denim,Casual Wear,900,1,900
+983,9/9/2021,On Shop, T-shirt,Semi Formal,600,1,600
+984,9/10/2021,On Shop, Jeans - Zara,Casual Wear,900,1,900
+985,9/11/2021,On Shop, Jeans - Levis,Casual Wear,1100,2,2200
+986,9/12/2021,On Shop, T-shirt,Semi Formal,600,1,600
+987,9/13/2021,On Shop, T-shirt,Semi Formal,600,1,600
+988,9/14/2021,On Shop, Jeans - Zara,Casual Wear,900,1,900
+989,9/15/2021,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+990,9/16/2021,On Shop, T-shirt,Semi Formal,600,1,600
+991,9/17/2021,On Shop, Chain,Accessories,600,1,600
+992,9/18/2021,On Shop, T-shirt,Semi Formal,600,1,600
+993,9/19/2021,On Shop, Chain,Accessories,600,1,600
+994,9/20/2021,On Shop, Chain,Accessories,600,2,1200
+995,9/21/2021,On Shop, T-shirt,Semi Formal,600,1,600
+996,9/22/2021,On Shop, Jeans - Levis,Casual Wear,1100,3,3300
+997,9/23/2021,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+998,9/24/2021,On Shop, shirt,Formal,850,1,850
+999,9/25/2021,On Shop, Shirt - Arrow,Formal,1200,1,1200
+1000,9/26/2021,On Shop, Shirt - PE,Semi Formal,800,1,800
+1001,9/27/2021,On Shop, Jeans - Zara,Casual Wear,900,1,900
+1002,9/28/2021,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+1003,9/29/2021,On Shop, Jeans - Denim,Casual Wear,900,1,900
+1004,9/30/2021,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+1005,10/1/2021,On Shop, Wallet,Accessories,900,1,900
+1006,10/2/2021,On Shop, Wallet,Accessories,500,1,500
+1007,10/3/2021,On Shop, Jeans - Lega,Casual Wear,1000,1,1000
+1008,10/4/2021,On Shop, Chain,Accessories,600,1,600
+1009,10/5/2021,On Shop, Jeans - Denim,Casual Wear,900,2,1800
+1010,10/6/2021,On Shop, shirt,Formal,850,1,850
+1011,10/7/2021,On Shop, Shirt - PE,Semi Formal,800,1,800
+1012,10/8/2021,On Shop, Jeans - Denim,Casual Wear,900,1,900
+1013,10/9/2021,On Shop, Jeans - Denim,Casual Wear,900,1,900
+1014,10/10/2021,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+1015,10/11/2021,On Shop, Jeans - Zara,Casual Wear,900,1,900
+1016,10/12/2021,On Shop, T-shirt,Semi Formal,600,1,600
+1017,10/13/2021,On Shop, T-shirt,Semi Formal,600,1,600
+1018,10/14/2021,On Shop, Jeans - Zara,Casual Wear,900,1,900
+1019,10/15/2021,On Shop, shirt,Formal,850,1,850
+1020,10/16/2021,On Shop, Jeans - Zara,Casual Wear,900,1,900
+1021,10/17/2021,On Shop, T-shirt,Semi Formal,600,1,600
+1022,10/18/2021,Online Order, T-shirt,Semi Formal,600,1,600
+1023,10/19/2021,Online Order, Jeans - Levis,Casual Wear,1100,1,1100
+1024,10/20/2021,Online Order, Jeans - Denim,Casual Wear,900,1,900
+1025,10/21/2021,Online Order, Jeans - Levis,Casual Wear,1100,1,1100
+1026,10/22/2021,Online Order, T-shirt,Semi Formal,600,1,600
+1027,10/23/2021,Online Order, Shirt - Arrow,Formal,1200,1,1200
+1028,10/24/2021,Online Order, Chain,Accessories,600,1,600
+1029,10/25/2021,Online Order, Jeans - Levis,Casual Wear,1100,1,1100
+1030,10/26/2021,Online Order, Wallet,Accessories,500,1,500
+1031,10/27/2021,On Shop, Jeans - Denim,Casual Wear,900,1,900
+1032,10/28/2021,On Shop, shirt,Formal,850,1,850
+1033,10/29/2021,On Shop, T-shirt,Semi Formal,600,1,600
+1034,10/30/2021,On Shop, Jeans - Levis,Casual Wear,1100,1,1100
+1035,10/31/2021,On Shop, Wallet,Accessories,500,1,500
+1036,11/1/2021,On Shop, T-shirt,Semi Formal,600,1,600
